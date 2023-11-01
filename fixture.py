@@ -23,6 +23,6 @@ def test_secong(configure_desktop_browser):
     print(configure_desktop_browser)
     assert 1==1
 
-def test_third(choise_user)
+def test_third(choise_user):
     print(choise_user)
     assert choise_user == 123
