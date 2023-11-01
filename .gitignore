@@ -1,3 +1,7 @@
 # created by virtualenv automatically
 /.idea
-
+/.pytest_cache
+/pyvenv.cfg
+/.pub
+/
+/Lib
